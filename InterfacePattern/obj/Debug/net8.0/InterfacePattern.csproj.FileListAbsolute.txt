@@ -1,0 +1,11 @@
+E:\GitHub\AbstractFactoryInterfacePatternCSharp\InterfacePattern\bin\Debug\net8.0\InterfacePattern.deps.json
+E:\GitHub\AbstractFactoryInterfacePatternCSharp\InterfacePattern\bin\Debug\net8.0\InterfacePattern.dll
+E:\GitHub\AbstractFactoryInterfacePatternCSharp\InterfacePattern\bin\Debug\net8.0\InterfacePattern.pdb
+E:\GitHub\AbstractFactoryInterfacePatternCSharp\InterfacePattern\obj\Debug\net8.0\InterfacePattern.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\AbstractFactoryInterfacePatternCSharp\InterfacePattern\obj\Debug\net8.0\InterfacePattern.AssemblyInfoInputs.cache
+E:\GitHub\AbstractFactoryInterfacePatternCSharp\InterfacePattern\obj\Debug\net8.0\InterfacePattern.AssemblyInfo.cs
+E:\GitHub\AbstractFactoryInterfacePatternCSharp\InterfacePattern\obj\Debug\net8.0\InterfacePattern.csproj.CoreCompileInputs.cache
+E:\GitHub\AbstractFactoryInterfacePatternCSharp\InterfacePattern\obj\Debug\net8.0\InterfacePattern.dll
+E:\GitHub\AbstractFactoryInterfacePatternCSharp\InterfacePattern\obj\Debug\net8.0\refint\InterfacePattern.dll
+E:\GitHub\AbstractFactoryInterfacePatternCSharp\InterfacePattern\obj\Debug\net8.0\InterfacePattern.pdb
+E:\GitHub\AbstractFactoryInterfacePatternCSharp\InterfacePattern\obj\Debug\net8.0\ref\InterfacePattern.dll

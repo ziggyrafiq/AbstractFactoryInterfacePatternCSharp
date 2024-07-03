@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AbstractFactoryPattern/1.0.0": {
+        "dependencies": {
+          "InterfacePattern": "1.0.0"
+        },
+        "runtime": {
+          "AbstractFactoryPattern.dll": {}
+        }
+      },
+      "InterfacePattern/1.0.0": {
+        "runtime": {
+          "InterfacePattern.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AbstractFactoryPattern/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "InterfacePattern/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+E:\GitHub\AbstractFactoryInterfacePatternCSharp\AbstractFactoryPattern\obj\Debug\net8.0\AbstractFactoryPattern.csproj.AssemblyReference.cache
+E:\GitHub\AbstractFactoryInterfacePatternCSharp\AbstractFactoryPattern\obj\Debug\net8.0\AbstractFactoryPattern.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\AbstractFactoryInterfacePatternCSharp\AbstractFactoryPattern\obj\Debug\net8.0\AbstractFactoryPattern.AssemblyInfoInputs.cache
+E:\GitHub\AbstractFactoryInterfacePatternCSharp\AbstractFactoryPattern\obj\Debug\net8.0\AbstractFactoryPattern.AssemblyInfo.cs
+E:\GitHub\AbstractFactoryInterfacePatternCSharp\AbstractFactoryPattern\obj\Debug\net8.0\AbstractFactoryPattern.csproj.CoreCompileInputs.cache
+E:\GitHub\AbstractFactoryInterfacePatternCSharp\AbstractFactoryPattern\bin\Debug\net8.0\AbstractFactoryPattern.deps.json
+E:\GitHub\AbstractFactoryInterfacePatternCSharp\AbstractFactoryPattern\bin\Debug\net8.0\AbstractFactoryPattern.dll
+E:\GitHub\AbstractFactoryInterfacePatternCSharp\AbstractFactoryPattern\bin\Debug\net8.0\AbstractFactoryPattern.pdb
+E:\GitHub\AbstractFactoryInterfacePatternCSharp\AbstractFactoryPattern\bin\Debug\net8.0\InterfacePattern.dll
+E:\GitHub\AbstractFactoryInterfacePatternCSharp\AbstractFactoryPattern\bin\Debug\net8.0\InterfacePattern.pdb
+E:\GitHub\AbstractFactoryInterfacePatternCSharp\AbstractFactoryPattern\obj\Debug\net8.0\Abstract.8B8F6985.Up2Date
+E:\GitHub\AbstractFactoryInterfacePatternCSharp\AbstractFactoryPattern\obj\Debug\net8.0\AbstractFactoryPattern.dll
+E:\GitHub\AbstractFactoryInterfacePatternCSharp\AbstractFactoryPattern\obj\Debug\net8.0\refint\AbstractFactoryPattern.dll
+E:\GitHub\AbstractFactoryInterfacePatternCSharp\AbstractFactoryPattern\obj\Debug\net8.0\AbstractFactoryPattern.pdb
+E:\GitHub\AbstractFactoryInterfacePatternCSharp\AbstractFactoryPattern\obj\Debug\net8.0\ref\AbstractFactoryPattern.dll
